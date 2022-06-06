@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Projects/PrintingApp/app/src/main/res/drawable/buttonstyle.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/PrintingApp/app/src/main/res/drawable/buttonstyleoff.xml" value="0.16979166666666667" />
+        <entry key="..\:/Android_Projects/PrintingApp/app/src/main/res/drawable/cancelbuttonstyle.xml" value="0.16979166666666667" />
+        <entry key="..\:/Android_Projects/PrintingApp/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/Android_Projects/PrintingApp/app/src/main/res/layout/device_list.xml" value="0.33" />
+        <entry key="..\:/Android_Projects/PrintingApp/app/src/main/res/layout/device_name.xml" value="0.15364583333333334" />
+        <entry key="..\:/Android_Projects/PrintingApp/app/src/main/res/layout/message.xml" value="0.921875" />
+        <entry key="..\:/Android_Projects/PrintingApp/app/src/main/res/layout/print_page_layout.xml" value="0.18" />
+        <entry key="..\:/Android_Projects/PrintingApp/app/src/main/res/menu/option_menu.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/WSSPC-010/Desktop/Printing/PrintingApp-old/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/WSSPC-010/Desktop/Printing/PrintingApp-old/app/src/main/res/layout/device_list.xml" value="0.1" />
+        <entry key="..\:/Users/WSSPC-010/Desktop/Printing/PrintingApp-old/app/src/main/res/layout/message.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/WSSPC-010/Desktop/Printing/PrintingApp-old/app/src/main/res/layout/print_page_layout.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

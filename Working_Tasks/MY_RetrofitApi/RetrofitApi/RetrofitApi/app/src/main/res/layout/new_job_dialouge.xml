@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@color/dialoug"
+    android:layout_margin="5dp"
+    android:outlineAmbientShadowColor="@color/green">
+
+    <TextView
+        android:id="@+id/txt_dia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:text="Start New Job ?"
+        android:textColor="@color/design_default_color_on_secondary"
+        android:textSize="25dp"
+        android:textStyle="bold"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+    <TextView
+        android:id="@+id/SectionCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="10dp"
+        android:text="Stdfgdgdf"
+        android:textColor="@color/design_default_color_on_secondary"
+        android:textSize="25dp"
+        android:textStyle="bold"/>
+        <View
+            android:layout_marginStart="5dp"
+            android:layout_width="3dp"
+            android:layout_height="38dp"
+            android:background="@color/black"/>
+    <TextView
+        android:id="@+id/Section"
+        android:layout_marginStart="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginEnd="10dp"
+        android:text="Stdfdfdfdfgfdgdf"
+        android:textColor="@color/design_default_color_on_secondary"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_y"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:backgroundTint="@color/green"
+            android:clickable="true"
+            android:text="Yes"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_n"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="5dp"
+            android:backgroundTint="@color/design_default_color_error"
+            android:clickable="true"
+            android:text="No"
+            android:textColor="#5DBCD2"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+
+</LinearLayout>
